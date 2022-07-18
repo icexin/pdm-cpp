@@ -1,0 +1,1 @@
+This is a project to minimise reproduction of pdm issue https://github.com/pdm-project/pdm/issues/1238
